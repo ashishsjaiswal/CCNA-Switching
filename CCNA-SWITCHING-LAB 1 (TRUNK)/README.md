@@ -24,8 +24,8 @@ The configuration files for both switches and the end devices can be found in th
 To recreate this lab environment, follow these steps:
 1. Set up two Cisco switches and connect them using a trunk link.
 2. Connect the four individual end devices (laptops) to each switch using access ports.
-3. Configure each switch with the provided configuration files in the [configurations](https://github.com/matiassingers/awesome-readme) directory. Use **switch1.cfg** for Switch 1 and **switch2.cfg** for Switch 2.
-4. Configure each end device with the respective configuration files in the [configurations](https://github.com/matiassingers/awesome-readme) directory. Use **laptop.cfg** to configure all the end devices (laptops). Verify the connectivity between the end devices and ensure that VLAN traffic is isolated correctly.
+3. Configure each switch with the provided configuration files in the [configurations](https://github.com/ashishsjaiswal/CCNA-Switching/tree/3e1135e130db24dd16630cab152173455a9ed3e4/CCNA-SWITCHING-LAB%201%20(TRUNK)/configurations) directory. Use **switch1.cfg** for Switch 1 and **switch2.cfg** for Switch 2.
+4. Configure each end device with the respective configuration files in the [configurations](https://github.com/ashishsjaiswal/CCNA-Switching/tree/3e1135e130db24dd16630cab152173455a9ed3e4/CCNA-SWITCHING-LAB%201%20(TRUNK)/configurations) directory. Use **laptop.cfg** to configure all the end devices (laptops). Verify the connectivity between the end devices and ensure that VLAN traffic is isolated correctly.
 
 ## VLAN Configuration
 The switches in this lab are configured with the following VLANs:
