@@ -18,15 +18,14 @@ The configuration files for both switches and the end devices can be found in th
 
 - **Switch 1 Configuration:** The configuration file **switch1.cfg** contains the commands to configure VLANs 414, 115, 113, and 501 on Switch 1. It also includes the configuration for the trunk port connecting Switch 1 to Switch 2.
 - **Switch 2 Configuration:** The configuration file **switch2.cfg** contains the commands to configure VLANs 414, 115, 113, and 501 on Switch 2. It also includes the configuration for the trunk port connecting Switch 2 to Switch 1.
-- **End Device Configuration:** The configuration files **laptop1.cfg**, **laptop2.cfg**, **laptop3.cfg**, **laptop4.cfg**, **laptop5.cfg**, **laptop6.cfg**, **laptop7.cfg**, and **laptop8.cfg** contain the basic configuration for the individual end devices (laptops) connected to each switch.
+- **End Device Configuration:** The configuration files **laptop.cfg** contain the basic configuration for the individual end devices (laptops) connected to each switch.
 
 ## Usage
 To recreate this lab environment, follow these steps:
 1. Set up two Cisco switches and connect them using a trunk link.
 2. Connect the four individual end devices (laptops) to each switch using access ports.
 3. Configure each switch with the provided configuration files in the [configurations](https://github.com/matiassingers/awesome-readme) directory. Use **switch1.cfg** for Switch 1 and **switch2.cfg** for Switch 2.
-4. Configure each end device with the respective configuration files in the [configurations](https://github.com/matiassingers/awesome-readme) directory. Use **laptop1.cfg** for Laptop 1, **laptop2.cfg** for Laptop 2, **laptop3.cfg** for Laptop 3, **laptop4.cfg** for Laptop 4, **laptop5.cfg** for Laptop 5, **laptop6.cfg** for Laptop 6, **laptop7.cfg** for Laptop 7 and **laptop8.cfg** for Laptop 3,.
-5. Verify the connectivity between the end devices and ensure that VLAN traffic is isolated correctly.
+4. Configure each end device with the respective configuration files in the [configurations](https://github.com/matiassingers/awesome-readme) directory. Use **laptop.cfg** to configure all the end devices (laptops). Verify the connectivity between the end devices and ensure that VLAN traffic is isolated correctly.
 
 ## VLAN Configuration
 The switches in this lab are configured with the following VLANs:
