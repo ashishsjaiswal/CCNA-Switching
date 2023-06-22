@@ -14,7 +14,7 @@ The following diagram illustrates the setup of the lab:
         Laptop1  Laptop2        Laptop3 Laptop4    Laptop5 Laptop6         Laptop7 Laptop8
 
 ## Configuration
-The configuration files for both switches and the end devices can be found in the [configurations](https://github.com/matiassingers/awesome-readme) directory. Each file contains the necessary commands to set up the lab environment, including VLAN creation and implementation, as well as the configuration of trunk ports.
+The configuration files for both switches and the end devices can be found in the [configurations](https://github.com/ashishsjaiswal/CCNA-Switching/tree/3e1135e130db24dd16630cab152173455a9ed3e4/CCNA-SWITCHING-LAB%201%20(TRUNK)/configurations) directory. Each file contains the necessary commands to set up the lab environment, including VLAN creation and implementation, as well as the configuration of trunk ports.
 
 - **Switch 1 Configuration:** The configuration file **switch1.cfg** contains the commands to configure VLANs 414, 115, 113, and 501 on Switch 1. It also includes the configuration for the trunk port connecting Switch 1 to Switch 2.
 - **Switch 2 Configuration:** The configuration file **switch2.cfg** contains the commands to configure VLANs 414, 115, 113, and 501 on Switch 2. It also includes the configuration for the trunk port connecting Switch 2 to Switch 1.
