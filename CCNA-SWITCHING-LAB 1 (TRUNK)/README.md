@@ -44,4 +44,4 @@ The configuration files specify the VLAN creation and assignment for each switch
 If you find any issues or have suggestions for improving this lab environment, feel free to open an issue or submit a pull request.
 
 ## License
-This lab environment is licensed under the [MIT License][(https://github.com/ashishsjaiswal/CCNA-Switching/blob/00ddc3eca4f2c1c0442ba43d91cabefb51a138cd/LICENSE)].
+This lab environment is licensed under the [MIT License](https://github.com/ashishsjaiswal/CCNA-Switching/blob/00ddc3eca4f2c1c0442ba43d91cabefb51a138cd/LICENSE).
