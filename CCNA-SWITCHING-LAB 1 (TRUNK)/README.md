@@ -1,7 +1,8 @@
 # CCNA-SWITCHING-LAB 1 (TRUNK)
 This repository provides the configuration and setup for a CCNA Switching lab, focusing on the use of trunk mode to connect two switches and the configuration of VLANs. The lab consists of two switches and four individual end devices (laptops) connected to each switch using access mode. The switches are configured with four VLANs: VLAN 414, VLAN 115, VLAN 113, and VLAN 501.
 ## Raw Diagram
-![IMG_20230603_125700](https://github.com/ashishsjaiswal/CCNA-Switching/assets/75754028/56165059-fbe8-44bb-b777-8711db119492)
+![IMG_20230603_125700](https://github.com/ashishsjaiswal/CCNA-Switching/assets/75754028/7d11ea02-7359-4cbb-8e74-828968ddc641)
+
 
 ## Lab Diagram
 The following diagram illustrates the setup of the lab:
