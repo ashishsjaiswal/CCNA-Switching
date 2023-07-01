@@ -1,4 +1,4 @@
-# CCNA-SWITCHING-LAB 1 (TRUNK)
+# CCNA-SWITCHING-LAB 2 (TRUNK)
 This repository provides resources for the CCNA-SWITCHING-LAB 2 (TRUNK), a lab setup aimed at practicing and understanding Cisco switching concepts. The lab consists of five switches interconnected using trunk mode, allowing for the configuration and testing of VLANs and trunking protocols.
 ## Lab Diagram
 The lab diagram showcases the physical connections between the five switches in the setup.
