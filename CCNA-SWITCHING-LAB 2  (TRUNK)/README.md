@@ -3,7 +3,8 @@ This repository provides resources for the CCNA-SWITCHING-LAB 2 (TRUNK), a lab s
 ## Lab Diagram
 The lab diagram showcases the physical connections between the five switches in the setup.
 
-![IMG_20230603_125734](https://github.com/ashishsjaiswal/CCNA-Switching/assets/75754028/b3b805c5-f10b-4877-a97f-a4e2783f75b4)
+![IMG_20230603_125734](https://github.com/ashishsjaiswal/CCNA-Switching/assets/75754028/602e16c1-e1b1-4927-a2c3-6de4e740d3b0)
+
 
 In this lab, you will find the configuration files for each switch, allowing you to replicate the lab environment. Each switch's configuration file specifies the VLAN assignments, trunk port configurations, and other necessary settings.
 
