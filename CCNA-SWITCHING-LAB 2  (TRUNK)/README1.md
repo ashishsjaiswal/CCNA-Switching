@@ -21,15 +21,6 @@ To recreate this lab environment, follow these steps refer the **Lab Diagram** g
 4. Use **switch1.cfg** for Switch 1, **switch2.cfg** for Switch 2, **switch3.cfg** for Switch 3, **switch4.cfg** for Switch 4 and **switch5.cfg** for Switch 5.
 5. Configure each end device with the respective configuration files in the [configurations](https://github.com/ashishsjaiswal/CCNA-Switching/tree/08babd9a9238abf77f8753b0a97aecc41742cab9/CCNA-SWITCHING-LAB%202%20%20(TRUNK)/configurations) directory. Use **enddevices.cfg** to configure all the end devices (laptops and servers). Verify the connectivity between the end devices and ensure that VLAN traffic is isolated correctly.
 
-## VLAN Configuration
-The switches in this lab are configured with the following VLANs:
-- vlan 101 (FINANCE)
-- vlan 256 (PRODUCTION)
-- vlan 112 (DC)
-- vlan 512 (ADMIN)
-
-The configuration files specify the VLAN creation and assignment for each switch.
-
 ## Switch Configurations
 
 The configuration files for all the switches and the end devices can be found in the [configurations](https://github.com/ashishsjaiswal/CCNA-Switching/tree/08babd9a9238abf77f8753b0a97aecc41742cab9/CCNA-SWITCHING-LAB%202%20%20(TRUNK)/configurations) directory. Each file contains the necessary commands to set up the lab environment, including VLAN creation and implementation, as well as the configuration of trunk ports.
@@ -41,6 +32,15 @@ The configuration files for all the switches and the end devices can be found in
 - Switch 5: **switch5.cfg**
 
 Please refer to the individual configuration files for detailed switch.
+
+## VLAN Configuration
+The switches in this lab are configured with the following VLANs:
+- vlan 101 (FINANCE)
+- vlan 256 (PRODUCTION)
+- vlan 112 (DC)
+- vlan 512 (ADMIN)
+
+The configuration files specify the VLAN creation and assignment for each switch.
 
 <!--- ## Troubleshooting -->
 
