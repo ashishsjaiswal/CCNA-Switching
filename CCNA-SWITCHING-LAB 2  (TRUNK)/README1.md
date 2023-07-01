@@ -46,10 +46,6 @@ Please refer to the individual configuration files for detailed switch.
 
 <!--- If you encounter any issues while setting up or running the lab, refer to the troubleshooting directory. It contains common problems and their possible solutions. -->
 
-#### Feel free to explore the repository for detailed switch configurations and the lab diagram.
-
-#### Enjoy your CCNA-SWITCHING-LAB 2 (TRUNK) experience!
-
 ## Contributing
 If you find any issues or have suggestions for improving this lab environment, feel free to open an issue or submit a pull request.
 
